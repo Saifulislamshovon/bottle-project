@@ -1,0 +1,452 @@
+[
+    {
+      "id": 1,
+      "bottle_name": "Hydro Flask",
+      "btl_color": "Pacific Blue",
+      "btl_capacity": "32 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 44.95,
+      "image_url": "https://cdni.llbean.net/is/image/wim/512506_74_42?wid=262&hei=302&defaultImage=llbprod/A0211793_2&"
+    },
+    {
+      "id": 2,
+      "bottle_name": "Yeti Rambler",
+      "btl_color": "Seafoam",
+      "btl_capacity": "26 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 39.99,
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.wqAFh8SLu5x3sDcOYtxlkwAAAA?pid=ImgDet&w=262&h=302&rs=1&o=7&rm=3"
+    },
+    {
+      "id": 3,
+      "bottle_name": "Nalgene Wide Mouth",
+      "btl_color": "Trout Green",
+      "btl_capacity": "32 oz",
+      "materials": "Tritan Plastic",
+      "bottle_price": 16.00,
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.onG376n61_wVOI-pJCGzawHaE8?pid=ImgDet&w=474&h=316&rs=1&o=7&rm=3"
+    },
+    {
+      "id": 4,
+      "bottle_name": "CamelBak Chute Mag",
+      "btl_color": "Charcoal",
+      "btl_capacity": "40 oz",
+      "materials": "BPA-Free Plastic",
+      "bottle_price": 18.00,
+      "image_url": "https://theadventurelab.com.au/wp-content/uploads/2022/07/Yeti-Rambler-edited-300x300.jpg"
+    },
+    {
+      "id": 5,
+      "bottle_name": "Contigo Autoseal Chill",
+      "btl_color": "Monaco Blue",
+      "btl_capacity": "24 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 22.99,
+      "image_url": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/f07bc844-e8c2-4b8f-8acb-a313dfd2cdb3/NIKE+REFUEL+BOTTLE+32+OZ.png"
+    },
+    {
+      "id": 6,
+      "bottle_name": "S'well Roamer",
+      "btl_color": "Teakwood",
+      "btl_capacity": "40 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 55.00,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 7,
+      "bottle_name": "Klean Kanteen Classic",
+      "btl_color": "Brushed Stainless",
+      "btl_capacity": "27 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 24.95,
+      "image_url": "https://theadventurelab.com.au/wp-content/uploads/2022/07/Yeti-Rambler-edited-300x300.jpg"
+    },
+    {
+      "id": 8,
+      "bottle_name": "Owala FreeSip",
+      "btl_color": "Boba",
+      "btl_capacity": "24 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 27.99,
+      "image_url": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/f07bc844-e8c2-4b8f-8acb-a313dfd2cdb3/NIKE+REFUEL+BOTTLE+32+OZ.png"
+    },
+    {
+      "id": 9,
+      "bottle_name": "Takeya Actives",
+      "btl_color": "Midnight",
+      "btl_capacity": "32 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 34.99,
+      "image_url": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/f07bc844-e8c2-4b8f-8acb-a313dfd2cdb3/NIKE+REFUEL+BOTTLE+32+OZ.png"
+    },
+    {
+      "id": 10,
+      "bottle_name": "Simple Modern Summit",
+      "btl_color": "Blush",
+      "btl_capacity": "22 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 19.99,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 11,
+      "bottle_name": "Brita Premium Filtering",
+      "btl_color": "Orchid",
+      "btl_capacity": "26 oz",
+      "materials": "BPA-Free Plastic",
+      "bottle_price": 22.89,
+      "image_url": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/f07bc844-e8c2-4b8f-8acb-a313dfd2cdb3/NIKE+REFUEL+BOTTLE+32+OZ.png"
+    },
+    {
+      "id": 12,
+      "bottle_name": "Thermos Intak",
+      "btl_color": "Magenta",
+      "btl_capacity": "24 oz",
+      "materials": "Copolyester",
+      "bottle_price": 14.99,
+      "image_url": "https://theadventurelab.com.au/wp-content/uploads/2022/07/Yeti-Rambler-edited-300x300.jpg"
+    },
+    {
+      "id": 13,
+      "bottle_name": "LARQ Bottle PureVis",
+      "btl_color": "Monaco Blue",
+      "btl_capacity": "17 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 99.00,
+      "image_url": "https://theadventurelab.com.au/wp-content/uploads/2022/07/Yeti-Rambler-edited-300x300.jpg"
+    },
+    {
+      "id": 14,
+      "bottle_name": "Iron Flask Sports Bottle",
+      "btl_color": "Dark Night",
+      "btl_capacity": "40 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 25.95,
+      "image_url": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/f07bc844-e8c2-4b8f-8acb-a313dfd2cdb3/NIKE+REFUEL+BOTTLE+32+OZ.png"
+    },
+    {
+      "id": 15,
+      "bottle_name": "Zojirushi SM-KHE48",
+      "btl_color": "Smoky Blue",
+      "btl_capacity": "16 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 27.49,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 16,
+      "bottle_name": "Ello Syndicate",
+      "btl_color": "Mint",
+      "btl_capacity": "20 oz",
+      "materials": "Glass with Silicone Sleeve",
+      "bottle_price": 16.99,
+      "image_url": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/f07bc844-e8c2-4b8f-8acb-a313dfd2cdb3/NIKE+REFUEL+BOTTLE+32+OZ.png"
+    },
+    {
+      "id": 17,
+      "bottle_name": "bkr Glass Water Bottle",
+      "btl_color": "Tutù (Pink)",
+      "btl_capacity": "16 oz",
+      "materials": "Glass with Silicone Sleeve",
+      "bottle_price": 38.00,
+      "image_url": "https://www.tradeinn.com/f/13788/137888953/nike-hypercharge-bottle-710ml.jpg"
+    },
+    {
+      "id": 18,
+      "bottle_name": "Corkcicle Canteen",
+      "btl_color": "Gloss White",
+      "btl_capacity": "16 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 34.95,
+      "image_url": "https://www.tradeinn.com/f/13788/137888953/nike-hypercharge-bottle-710ml.jpg"
+    },
+    {
+      "id": 19,
+      "bottle_name": "Stanley IceFlow",
+      "btl_color": "Alpine",
+      "btl_capacity": "30 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 31.00,
+      "image_url": "https://www.tradeinn.com/f/13788/137888953/nike-hypercharge-bottle-710ml.jpg"
+    },
+    {
+      "id": 20,
+      "bottle_name": "BlenderBottle Radian",
+      "btl_color": "Matte Black",
+      "btl_capacity": "26 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 24.99,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 21,
+      "bottle_name": "HydroJug Glass",
+      "btl_color": "Lavender",
+      "btl_capacity": "73 oz",
+      "materials": "Glass with Silicone Sleeve",
+      "bottle_price": 54.99,
+      "image_url": "https://www.tradeinn.com/f/13788/137888953/nike-hypercharge-bottle-710ml.jpg"
+    },
+    {
+      "id": 22,
+      "bottle_name": "RTIC Jug",
+      "btl_color": "Slate Blue",
+      "btl_capacity": "1 Gallon",
+      "materials": "Stainless Steel",
+      "bottle_price": 49.99,
+      "image_url": "https://theadventurelab.com.au/wp-content/uploads/2022/07/Yeti-Rambler-edited-300x300.jpg"
+    },
+    {
+      "id": 23,
+      "bottle_name": "Kinto Day Off Tumbler",
+      "btl_color": "Mustard",
+      "btl_capacity": "17 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 38.00,
+      "image_url": "https://www.tradeinn.com/f/13788/137888953/nike-hypercharge-bottle-710ml.jpg"
+    },
+    {
+      "id": 24,
+      "bottle_name": "Purifyou Premium",
+      "btl_color": "Aqua Blue",
+      "btl_capacity": "22 oz",
+      "materials": "Glass with Silicone Sleeve",
+      "bottle_price": 21.97,
+      "image_url": "https://www.tradeinn.com/f/13788/137888953/nike-hypercharge-bottle-710ml.jpg"
+    },
+    {
+      "id": 25,
+      "bottle_name": "Mizu V8",
+      "btl_color": "Ocean Blue",
+      "btl_capacity": "26 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 22.95,
+      "image_url": "https://theadventurelab.com.au/wp-content/uploads/2022/07/Yeti-Rambler-edited-300x300.jpg"
+    },
+    {
+      "id": 26,
+      "bottle_name": "Gatorade Squeeze",
+      "btl_color": "Green/Orange",
+      "btl_capacity": "32 oz",
+      "materials": "BPA-Free Plastic",
+      "bottle_price": 14.99,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 27,
+      "bottle_name": "Lululemon Back to Life",
+      "btl_color": "Black",
+      "btl_capacity": "24 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 44.00,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 28,
+      "bottle_name": "Stojo Collapsible",
+      "btl_color": "Cashmere",
+      "btl_capacity": "20 oz",
+      "materials": "Silicone",
+      "bottle_price": 20.00,
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.pyMWsvTzmvQ9L1G2p5FwIAHaHa?w=832&h=832&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": 29,
+      "bottle_name": "Yeti Yonder",
+      "btl_color": "Clear",
+      "btl_capacity": "25 oz",
+      "materials": "BPA-Free Plastic",
+      "bottle_price": 25.00,
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.pyMWsvTzmvQ9L1G2p5FwIAHaHa?w=832&h=832&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": 30,
+      "bottle_name": "Welly Traveler",
+      "btl_color": "Bamboo",
+      "btl_capacity": "18 oz",
+      "materials": "Bamboo and Stainless Steel",
+      "bottle_price": 33.00,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 31,
+      "bottle_name": "Vapur Solid",
+      "btl_color": "Eclipse Blue",
+      "btl_capacity": "23 oz",
+      "materials": "BPA-Free Plastic",
+      "bottle_price": 11.99,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 32,
+      "bottle_name": "Soma Glass",
+      "btl_color": "Mint",
+      "btl_capacity": "17 oz",
+      "materials": "Glass with Silicone Sleeve",
+      "bottle_price": 30.00,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 33,
+      "bottle_name": "Pura Sport",
+      "btl_color": "Stainless",
+      "btl_capacity": "28 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 29.99,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 34,
+      "bottle_name": "Thermoflask",
+      "btl_color": "Black",
+      "btl_capacity": "40 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 22.99,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 35,
+      "bottle_name": "Memobottle A5",
+      "btl_color": "Clear",
+      "btl_capacity": "25 oz",
+      "materials": "BPA-Free Plastic",
+      "bottle_price": 36.00,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 36,
+      "bottle_name": "Tervis Classic",
+      "btl_color": "Clear",
+      "btl_capacity": "24 oz",
+      "materials": "Tritan",
+      "bottle_price": 19.99,
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.pyMWsvTzmvQ9L1G2p5FwIAHaHa?w=832&h=832&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": 37,
+      "bottle_name": "Nespresso Nomad",
+      "btl_color": "Khaki Green",
+      "btl_capacity": "18 oz",
+      "materials": "Plastic",
+      "bottle_price": 25.00,
+      "image_url": "https://media.istockphoto.com/id/1255346089/photo/full-length-blue-aluminium-waterbottle-isolated-on-white-background.jpg?s=170667a&w=0&k=20&c=jbT2LreaG4T48XF83NsF0Iy1-7xHiAuy73RV6J4HMh8="
+    },
+    {
+      "id": 38,
+      "bottle_name": "CamelBak Podium",
+      "btl_color": "Fiery Red",
+      "btl_capacity": "21 oz",
+      "materials": "BPA-Free Plastic",
+      "bottle_price": 11.00,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 39,
+      "bottle_name": "Snow Peak Titanium",
+      "btl_color": "Titanium",
+      "btl_capacity": "27 oz",
+      "materials": "Titanium",
+      "bottle_price": 149.95,
+      "image_url": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/f07bc844-e8c2-4b8f-8acb-a313dfd2cdb3/NIKE+REFUEL+BOTTLE+32+OZ.png"
+    },
+    {
+      "id": 40,
+      "bottle_name": "LifeStraw Go",
+      "btl_color": "Blue",
+      "btl_capacity": "22 oz",
+      "materials": "BPA-Free Plastic",
+      "bottle_price": 39.95,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 41,
+      "bottle_name": "Nalgene Narrow Mouth",
+      "btl_color": "Clementine",
+      "btl_capacity": "32 oz",
+      "materials": "Tritan Plastic",
+      "bottle_price": 15.00,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 42,
+      "bottle_name": "Yeti Rambler Jr",
+      "btl_color": "Harbor Pink",
+      "btl_capacity": "12 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 25.00,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 43,
+      "bottle_name": "Hydro Flask Trail Series",
+      "btl_color": "Obsidian",
+      "btl_capacity": "32 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 49.95,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 44,
+      "bottle_name": "Owala Twist",
+      "btl_color": "Grape",
+      "btl_capacity": "24 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 24.99,
+      "image_url": "https://www.tradeinn.com/f/13788/137888953/nike-hypercharge-bottle-710ml.jpg"
+    },
+    {
+      "id": 45,
+      "bottle_name": "Zoku Glass Core",
+      "btl_color": "Teal",
+      "btl_capacity": "16 oz",
+      "materials": "Glass with Silicone Sleeve",
+      "bottle_price": 29.99,
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/4463093_Stainless_Steel_Black?wid=600&hei=600&op_sharpen=1"
+    },
+    {
+      "id": 46,
+      "bottle_name": "Kinzi Sports",
+      "btl_color": "Matte Black",
+      "btl_capacity": "32 oz",
+      "materials": "BPA-Free Plastic",
+      "bottle_price": 14.99,
+      "image_url": "https://www.tradeinn.com/f/13788/137888953/nike-hypercharge-bottle-710ml.jpg"
+    },
+    {
+      "id": 47,
+      "bottle_name": "Under Armour Sideline",
+      "btl_color": "Red",
+      "btl_capacity": "64 oz",
+      "materials": "Foam Insulated Plastic",
+      "bottle_price": 25.00,
+      "image_url": "https://www.tradeinn.com/f/13788/137888953/nike-hypercharge-bottle-710ml.jpg7"
+    },
+    {
+      "id": 48,
+      "bottle_name": "Bubba Flo Duo",
+      "btl_color": "Tidal Blue",
+      "btl_capacity": "24 oz",
+      "materials": "Tritan",
+      "bottle_price": 12.99,
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.onG376n61_wVOI-pJCGzawHaE8?pid=ImgDet&w=474&h=316&rs=1&o=7&rm=3"
+    },
+    {
+      "id": 49,
+      "bottle_name": "Fifty/Fifty Vacuum",
+      "btl_color": "Olive",
+      "btl_capacity": "40 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 34.99,
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.pyMWsvTzmvQ9L1G2p5FwIAHaHa?w=832&h=832&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": 50,
+      "bottle_name": "Healthy Human Stein",
+      "btl_color": "Wood Grain",
+      "btl_capacity": "21 oz",
+      "materials": "Stainless Steel",
+      "bottle_price": 29.99,
+      "image_url": "https://www.foodandwine.com/thmb/eo6U1g-BhhoxeFUAnbgb4xGaUSQ=/fit-in/1300x0/filters:no_upscale():max_bytes(150000):strip_icc()/faw-tier-3-product-yeti-rambler-26oz-bottle-nsimpson-2172-6482c5f2776d4f23ac27c3e7dcac4d11.jpeg"
+    }
+]

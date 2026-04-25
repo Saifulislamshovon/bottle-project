@@ -1,0 +1,13 @@
+.all-bottles{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 5px;
+    padding: 5px;
+    gap: 10px;
+    
+}
+.all-bottles img{
+    width: 400px;
+    height: 400px;
+    
+}
