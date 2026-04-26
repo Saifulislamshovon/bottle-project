@@ -13,6 +13,8 @@ const Bottle = ({bottle, handleAddToCart}) => {
             <h3> Materials: {materials}</h3>
             <h2>Price: ${bottle_price}</h2>
             <button onClick={() => handleAddToCart(bottle)}>Buy Now</button>
+
+            
         </div>
     );
 };
