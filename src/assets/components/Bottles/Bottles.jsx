@@ -3,7 +3,7 @@ import { use } from 'react';
 import Bottle from './../Bottle/Bottle';
 import './Bottles.css';
 import { useState } from 'react';
-import { getItemToCartLS, getCartFromLocalStorage } from '../../../utilities/LocalStorage';
+import { getItemToCartLS, getCartFromLocalStorage, removeFromLS } from '../../../utilities/LocalStorage';
 import Cart from './../Cart/Cart'
 
 
@@ -44,6 +44,7 @@ function Bottles({ bottlesPromise }) {
         // console.log("remove clicked", id );
         const remainingCart = cart.filter(bottle => bottle.id !== id  );
         setCart(remainingCart);
+        removeFromLS(id);
     }
 
     return (
